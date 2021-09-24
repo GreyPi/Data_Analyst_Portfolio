@@ -51,12 +51,12 @@ Due to the new dependency on NetFx 4.7.2, SSMS 18.0 does not install on Windows 
 
 ### Free Version of [Tableau](https://public.tableau.com/en-us/s/download)
 
-### [New Feature Highlights](https://www.tableau.com/products/new-features)
+### [New Feature Highlights for Tableau](https://www.tableau.com/products/new-features)
 
-# Python
+## Python
 
-## [Google Colaboratory](https://research.google.com/colaboratory/)
+### [Google Colaboratory](https://research.google.com/colaboratory/)
 
-## [Anaconda Navigator](https://docs.anaconda.com/anaconda/install/index.html)
+### [Anaconda Navigator](https://docs.anaconda.com/anaconda/install/index.html)
 
-## Helpful [Jupyter Documentation](https://jupyter.org/documentation)
+### Helpful [Jupyter Documentation](https://jupyter.org/documentation)
